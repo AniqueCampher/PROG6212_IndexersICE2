@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prjIndexersICE2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7917081f02919be1c2a288e08bdd8eab132346e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("prjIndexersICE2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prjIndexersICE2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
