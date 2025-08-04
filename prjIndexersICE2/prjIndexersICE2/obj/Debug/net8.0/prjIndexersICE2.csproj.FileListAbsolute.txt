@@ -1,0 +1,14 @@
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.AssemblyInfoInputs.cache
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.AssemblyInfo.cs
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.csproj.CoreCompileInputs.cache
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\bin\Debug\net8.0\prjIndexersICE2.exe
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\bin\Debug\net8.0\prjIndexersICE2.deps.json
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\bin\Debug\net8.0\prjIndexersICE2.runtimeconfig.json
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\bin\Debug\net8.0\prjIndexersICE2.dll
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\bin\Debug\net8.0\prjIndexersICE2.pdb
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.dll
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\refint\prjIndexersICE2.dll
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.pdb
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\prjIndexersICE2.genruntimeconfig.cache
+C:\Users\27609\OneDrive\Documents\prjIndexersICE2\prjIndexersICE2\obj\Debug\net8.0\ref\prjIndexersICE2.dll
